@@ -11,7 +11,7 @@ hour = now.hour
 
 # to fetch the temprature using coordinate of user
 g = geocoder.ip('me')
-api_key = 'e93d7dcbb7809b2415b8503f567188dd'  
+api_key = ''  
 if g.ok:
     latitude = g.latlng[0]
     longitude = g.latlng[1]
