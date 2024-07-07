@@ -1,0 +1,38 @@
+/* blog/static/css/styles.css */
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  body.dark-theme .navbar {
+    background-color: #1f1f1f;
+  }
+  
+  body.dark-theme .bg-light {
+    background-color: #2c2c2c !important;
+    color: #ffffff;
+  }
+  
+  body.dark-theme .list-group-item {
+    background-color: #2c2c2c;
+    color: #ffffff;
+  }
+  
+  body.dark-theme .list-group-item:hover {
+    background-color: #3c3c3c;
+  }
+  
+  body.dark-theme .img-thumbnail {
+    border-color: #ffffff;
+  }
+  
+  body.dark-theme .blog-footer {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  
